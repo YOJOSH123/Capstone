@@ -1,0 +1,84 @@
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.deps.json
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.runtimeconfig.json
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.runtimeconfig.dev.json
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.dll
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.pdb
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.Views.dll
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.Views.pdb
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.AssemblyInfo.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorAssemblyInfo.cache
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorAssemblyInfo.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.TagHelpers.input.cache
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.TagHelpers.output.cache
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorCoreGenerate.cache
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorTargetAssemblyInfo.cache
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorTargetAssemblyInfo.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.Views.pdb
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.dll
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.pdb
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.genruntimeconfig.cache
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.csproj.CopyComplete
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Search.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\SignIn.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\AddGame.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\GameSelected.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\TroubleTickets.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\UserPage.cshtml.g.cs
+C:\Users\joshu\Desktop\School\Summer 2020\Capstone\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Reviews.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.deps.json
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.runtimeconfig.json
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.runtimeconfig.dev.json
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.dll
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.pdb
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.Views.dll
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\bin\Debug\netcoreapp2.2\JN_Gamebase.Views.pdb
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.AssemblyInfo.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorAssemblyInfo.cache
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorAssemblyInfo.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.TagHelpers.input.cache
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.TagHelpers.output.cache
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorCoreGenerate.cache
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\AddGame.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\GameSelected.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Reviews.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Search.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\SignIn.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\TroubleTickets.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\UserPage.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorTargetAssemblyInfo.cache
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.RazorTargetAssemblyInfo.cs
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.Views.pdb
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.dll
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.pdb
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.genruntimeconfig.cache
+C:\Users\Nick\Documents\capstone\Capstone\JN_Gamebase\JN_Gamebase\obj\Debug\netcoreapp2.2\JN_Gamebase.csproj.CopyComplete

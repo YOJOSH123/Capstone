@@ -1,0 +1,53 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+    <div class="home">
+
+        <h1 class="top-title">Top 5 Games</h1>
+
+        <table class="top-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Game Title</th>
+                    <th>Game Developer</th>
+                    <th>Date Released</th>
+                    <th>Game Genre</th>
+                    <th>ERSB</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                
+            </tbody>
+        </table>
+
+        <button onclick="window.location.href='/AddGame'">Add Game</button>
+
+        <h2 class="search-title">Search Game</h2>
+
+        <div class="search-home">
+            <input type="text" placeholder="Title" />
+
+            <label for="genre">Choose a Genre:</label>
+            <select id="genres" name="genres">
+                <option value=""></option>
+                <option value=""></option>
+                <option value=""></option>
+                <option value=""></option>
+            </select>
+
+            <button type="submit" class="button-search">Search</button>
+        </div>
+
+
+
+
+
+
+
+    </div>

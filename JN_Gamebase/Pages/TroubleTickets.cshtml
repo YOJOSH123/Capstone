@@ -1,0 +1,50 @@
+﻿@page
+@model JN_Gamebase.Pages.TroubleTicketsModel
+@{
+    ViewData["Title"] = "TroubleTickets";
+}
+
+<div>
+    <h2>Support Ticket</h2>
+    
+    <div class="ticket-form">
+        <div class="ticket-inner">
+            <input type="text" placeholder="Your Name" />
+        </div>
+        <div class="ticket-inner">
+            <input type="text" placeholder="Game Title" />
+        </div>
+        <div class="ticket-inner">
+            <input type="text" placeholder="Email" />
+        </div>
+        <div class="ticket-inner">
+            <input type="text" placeholder="Subject" />
+        </div>
+        <div class="ticket-inner">
+            <input type="text" placeholder="Description" />
+        </div>
+
+        <div class="ticket-inner">
+            <button type="submit" class="submit-ticket-button">Submit Ticket</button>
+        </div>
+    </div>
+
+
+
+    <h2>Past User tickets</h2>
+
+    <table class="top-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Title</th>
+                <th>Email</th>
+                <th>Subject</th>
+            </tr>
+        </thead>
+
+        <tbody>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,60 @@
+﻿@page
+@model JN_Gamebase.Pages.AddGameModel
+@{
+    ViewData["Title"] = "AddGame";
+}
+
+<script src="https://cdn.tiny.cloud/1/0ov0gut0a32tpk6b1r3xrgggfz3t4h1ygkots7rslvc3r1m3/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+
+<h1>Add Game</h1>
+
+<div class="add-form">
+    <div class="add-inner">
+        <input type="text" placeholder="Title" />
+    </div>
+    <div class="add-inner">
+        <input type="text" placeholder="Developer" />
+    </div>
+    <div class="add-inner">
+        <input type="text" placeholder="Genre" />
+    </div>
+    <div class="add-inner">
+        <input type="text" placeholder="Rating (E/E+/T/M)" />
+    </div>
+    <div class="add-inner">
+        <input type="text" placeholder="Series" />
+    </div>
+    <div class="add-inner">
+        <input type="text" placeholder="Price" />
+    </div>
+    <div class="add-inner">
+        <input type="text" placeholder="Release Date" />
+    </div>
+
+    
+
+    <div class="add-tiny">
+        <textarea>
+            About the game
+        </textarea>
+        <script>
+            tinymce.init({
+                selector: 'textarea',
+                plugins: 'a11ychecker advcode casechange formatpainter linkchecker autolink lists checklist media mediaembed pageembed permanentpen powerpaste table advtable tinycomments tinymcespellchecker',
+                toolbar: 'a11ycheck addcomment showcomments casechange checklist code formatpainter pageembed permanentpen table',
+                toolbar_mode: 'floating',
+                tinycomments_mode: 'embedded',
+                tinycomments_author: 'Author name',
+            });
+        </script>
+    </div>
+
+    <div class="add-inner">
+        <button type="submit" class="button-add-game">Add</button>
+    </div>
+</div>
+
+
+
+  
+

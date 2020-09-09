@@ -1,0 +1,41 @@
+﻿@page
+@model JN_Gamebase.Pages.SearchModel
+@{
+    ViewData["Title"] = "Search";
+}
+
+<h2 class="search-title">Search Game</h2>
+
+<div class="search-search">
+    <input type="text" placeholder="Title" />
+
+    <label for="genre">Choose a Genre:</label>
+    <select id="genres" name="genres">
+        <option value=""></option>
+        <option value=""></option>
+        <option value=""></option>
+        <option value=""></option>
+    </select>
+
+    <button type="submit" class="button-search">Search</button>
+</div>
+
+<h2 class="results-title">Results</h2>
+
+<table class="results-table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Game Title</th>
+            <th>Game Developer</th>
+            <th>Date Released</th>
+            <th>Game Genre</th>
+            <th>ERSB</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        
+    </tbody>
+</table>
